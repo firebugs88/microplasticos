@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cosas-por-hacer.md",
-                "mode": "source",
+                "file": "investigaciones/analisis-composicion-material-botella-pet-cielo-620ml.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cosas-por-hacer"
+              "title": "analisis-composicion-material-botella-pet-cielo-620ml"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VPS.md",
-                "mode": "source",
+                "file": "CLAUDE.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VPS"
+              "title": "CLAUDE"
             }
           }
         ],
@@ -201,12 +201,14 @@
   "active": "2ad2efe6b77ba8a1",
   "lastOpenFiles": [
     "investigaciones/analisis-composicion-material-botella-pet-cielo-620ml.md",
-    "investigaciones/Informe_Tecnico_Remocion_Microplasticos_Agua - 2 fuentes.md",
-    "VPS.md",
-    "cosas-por-hacer.md",
-    "investigaciones/resumen_toxicidad_microplasticos.md",
+    "notas-clave",
     "investigaciones/analisis-material-botella-cielo-620ml.md",
     "investigaciones/Informe_Tecnico_Remocion_Microplasticos_Agua.md",
+    "investigaciones/Informe_Tecnico_Remocion_Microplasticos_Agua - 2 fuentes.md",
+    "investigaciones/resumen_toxicidad_microplasticos.md",
+    "cosas-por-hacer.md",
+    "CLAUDE.md",
+    "VPS.md",
     "Informe_Tecnico_Remocion_Microplasticos_Agua.md.tmp.38380.b25f8a745913",
     "imagenes/botella-agua-cielo.jpg",
     "imagenes",

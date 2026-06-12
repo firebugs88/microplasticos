@@ -1,0 +1,2 @@
+# Normalizar saltos de linea a LF (estandar de Linux/macOS) para todos los archivos de texto
+* text=auto eol=lf
