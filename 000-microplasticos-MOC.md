@@ -71,7 +71,7 @@ Este eje se alimenta de los tres anteriores para generar decisiones prácticas:
 - Selección de filtro de agua doméstico (basado en → [[informe-tecnico-remocion-microplasticos-v2]])
 - Alternativas al agua embotellada en PET (basado en → [[analisis-composicion-material-botella-pet-cielo-620ml]])
 - Reducción de exposición por otras vías: alimentos, aire, textiles (basado en → [[resumen-toxicidad-microplasticos]])
-- Pendiente: crear nota dedicada con plan de acción personal
+- Pendiente: crear nota dedicada con plan de acción personal → [[plan-accion-personal-microplasticos]] ✅
 
 ---
 
@@ -83,7 +83,7 @@ Este eje se alimenta de los tres anteriores para generar decisiones prácticas:
 | Métodos de remoción | ✅ Informe técnico completo | ████████░░ 80% |
 | Caso PET Cielo | ✅ Análisis detallado | ████████░░ 80% |
 | Notas clave (síntesis) | ✅ Base sólida | ████████░░ 80% |
-| Acción personal | 📋 Por desarrollar | ██░░░░░░░░ 20% |
+| Acción personal | ✅ Plan creado | ██████░░░░ 60% |
 | Contexto local (Colombia) | 📋 Por investigar | █░░░░░░░░░ 10% |
 
 ---
@@ -140,6 +140,10 @@ microplasticos/
 │   ├── impacto-neurologico-microplasticos.md
 │   ├── riesgo-cardiovascular-microplasticos.md
 │   └── regulacion-europea-microplasticos.md
+├── proyectos/
+│   └── plan-accion-personal-microplasticos.md
+├── daily-notes/
+│   └── 2026-06-12.md
 ├── templates/
 │   ├── research.md
 │   ├── daily-note.md
@@ -159,3 +163,4 @@ microplasticos/
 
 - [[CLAUDE.md]] — Convenciones del segundo cerebro
 - [[cosas-por-hacer]] — Tareas pendientes del proyecto
+- [[plan-accion-personal-microplasticos]] — Plan de acción personal con decisiones concretas

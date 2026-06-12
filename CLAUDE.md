@@ -25,35 +25,31 @@ Todo lo que hagas debe pasar por este filtro: **¿esto me ayuda a aprender de ve
 
 ## Estructura de la bóveda
 
-| Carpeta | Contenido | Frecuencia |
-|---------|-----------|------------|
-| `daily-notes/` | Una nota por día (`YYYY-MM-DD.md`) | Diaria |
-| `proyectos/` | Un `.md` por proyecto activo | Según necesidad |
-| `investigaciones/` | Investigaciones, lecturas, herramientas | Según necesidad |
-| `notas-clave/` | Notas de síntesis con datos clave y rankings | Según necesidad |
-| `personas/` | Fichas de contactos relevantes | Según necesidad |
-| `ideas/` | Ideas sin proyecto asignado | Según necesidad |
-| `inbox/` | Material pendiente de procesar | Punto de entrada |
-| `templates/` | Plantillas base (no editar directamente) | Referencia |
-| `recursos/` | Material de consulta, cheatsheets, referencia estática | Referencia |
-| `log/` | Registros semanales de progreso del proyecto | Semanal |
-| `Tecnicas de Lectura/` | Técnicas de lectura eficiente (chunking, lectura rápida) | Referencia |
-| `Tecnicas de Memorizacion/` | Métodos de memorización y toma de apuntes (Cornell, Loci…) | Referencia |
-| `Registro de Lectura/` | Registro semanal de progreso de lectura | Semanal |
+| Carpeta                     | Contenido                                                  | Frecuencia       |
+| --------------------------- | ---------------------------------------------------------- | ---------------- |
+| `daily-notes/`              | Una nota por día (`YYYY-MM-DD.md`)                         | Diaria           |
+| `proyectos/`                | Un `.md` por proyecto activo                               | Según necesidad  |
+| `investigaciones/`          | Investigaciones, lecturas, herramientas                    | Según necesidad  |
+| `notas-clave/`              | Notas de síntesis con datos clave y rankings               | Según necesidad  |
+| `personas/`                 | Fichas de contactos relevantes                             | Según necesidad  |
+| `ideas/`                    | Ideas sin proyecto asignado                                | Según necesidad  |
+| `inbox/`                    | Material pendiente de procesar                             | Punto de entrada |
+| `templates/`                | Plantillas base (no editar directamente)                   | Referencia       |
+| `recursos/`                 | Material de consulta, cheatsheets, referencia estática     | Referencia       |
+| `log/`                      | Registros semanales de progreso del proyecto               | Semanal          |
+
 
 ### Archivos en raíz (Estructura MOC)
 
-| Archivo | Propósito |
-|---------|-----------|
-| `000 Home MOC.md` | Punto de entrada principal y navegación global |
-| `000-microplasticos-MOC.md` | Mapa de contenido del proyecto microplásticos |
-| `010 Redes y Telecomunicaciones MOC.md` | Mapa de contenido de redes |
-| `020 Física y Electromagnetismo MOC.md` | Mapa de contenido de física |
-| `030 Neurociencia y Productividad MOC.md` | Mapa de contenido de neurociencia |
-| `040 Métodos de Aprendizaje MOC.md` | Mapa de contenido de métodos de estudio |
-| `050 Diario MOC.md` | Índice de notas diarias |
-| `Registro de Lectura.md` | Índice de registros de lectura |
-| `cosas-por-hacer.md` | Lista de tareas pendientes organizada por urgencia |
+| Archivo                                   | Propósito                                          |
+| ----------------------------------------- | -------------------------------------------------- |
+| `000 Home MOC.md`                         | Punto de entrada principal y navegación global     |
+| `000-microplasticos-MOC.md`               | Mapa de contenido del proyecto microplásticos      |
+| `030 Neurociencia y Productividad MOC.md` | Mapa de contenido de neurociencia                  |
+| `040 Métodos de Aprendizaje MOC.md`       | Mapa de contenido de métodos de estudio            |
+| `050 Diario MOC.md`                       | Índice de notas diarias                            |
+| `cosas-por-hacer.md`                      | Lista de tareas pendientes organizada por urgencia |
+
 
 ---
 

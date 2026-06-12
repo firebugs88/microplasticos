@@ -40,6 +40,18 @@ tags:
 
 ---
 
+## 🏛 Anclas de memoria
+
+| Concepto | Lugar / Imagen | Escena vívida |
+|---|---|---|
+| 7 gramos de plástico en el cerebro | Tu almohada | Apoyas la cabeza en la almohada y sientes un **crujido plástico** — al levantarla ves una cuchara desechable blanca clavada en la espuma, derritiéndose lentamente con el calor de tu cabeza. |
+| Cerebro 30× más que hígado | Tu cocina | Abres la nevera: el hígado de res en un plato tiene una **pizca de glitter** encima, pero al lado hay un cerebro del tamaño de una sandía cubierto entero de **bolsas plásticas derretidas** que gotean sobre el mesón. |
+| +50% en 8 años | Tu cuarto de baño | Te miras al espejo en 2016 y ves tu reflejo normal. Parpadeas y ahora es 2024: tu reflejo tiene una **bolsa plástica transparente** cubriéndole la mitad de la cabeza, como un gorro de ducha apretado que no se puede quitar. |
+| Demencia = 5× más plástico | Silla de tu abuela | La silla vacía de tu abuela tiene encima un **montón de botellas PET aplastadas** que pesan 5 veces más que una sola — cada botella dice "26,076 µg/g" en la etiqueta, y gotean un líquido lechoso. |
+| Nanoplásticos cruzan barrera hematoencefálica | Puerta de tu casa | La puerta de entrada tiene un **portero microscópico** (la barrera) que deja pasar hormigas de colores brillantes (nanoplásticos) como si fueran invisibles — las hormigas marchan directo a tu sala y se sientan en el sofá. |
+
+---
+
 ## 📋 Resumen Cornell
 
 | 🔑 Claves / Preguntas | 📝 Respuestas clave |

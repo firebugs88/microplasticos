@@ -17,7 +17,9 @@
 - [ ] Reemplazar envases PET por botellas de vidrio o acero inoxidable para uso diario
 - [ ] Investigar normativa colombiana vigente sobre microplásticos en agua potable
 - [ ] Explorar opciones para el VPS: ¿sitio web divulgativo? ¿dashboard de calidad de agua?
-- [ ] Crear daily notes de seguimiento del proyecto
+- [x] Crear daily notes de seguimiento del proyecto
+- [x] Crear plan de acción personal con decisiones concretas
+- [x] Agregar anclas de memoria a las 3 notas clave nuevas
 
 ## ✅ Completado
 - [x] Investigación exhaustiva de toxicidad de microplásticos (2 fuentes, 16+ refs)

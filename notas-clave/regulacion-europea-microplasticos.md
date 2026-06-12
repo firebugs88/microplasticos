@@ -45,6 +45,17 @@ tags:
 
 ---
 
+## 🏛 Anclas de memoria
+
+| Concepto | Lugar / Imagen | Escena vívida |
+|---|---|---|
+| Reglamento UE 2023/2055 (MPs añadidos) | Entrada del supermercado | En la entrada hay un **guardia europeo con casco azul y estrellas doradas** que revisa cada producto: si tiene microplásticos añadidos a propósito, lo tira a una trituradora gigante. Pero si el plástico viene del envase, lo deja pasar sin mirar. |
+| EFSA dictamen dic 2027 | Tu calendario de pared | Arrancas la hoja de tu calendario y aparece **diciembre 2027** en rojo gigante. Debajo dice "FECHA LÍMITE EFSA" con una cuenta regresiva que parpadea. Alrededor hay pilas de expedientes sin abrir. |
+| Colombia sin regulación | Mapa de Colombia en tu pared | El mapa de Colombia de tu pared tiene un **signo de interrogación gigante** flotando encima, y de cada ciudad salen burbujas de agua con partículas de plástico que nadie mide ni regula. |
+| MPs por degradación NO regulados | Tu lavadora | Abres la lavadora y sale una **cascada de fibras sintéticas** de colores que inunda el piso — al fondo ves a un legislador europeo encogiéndose de hombros y diciendo "eso no lo regulamos todavía". |
+
+---
+
 ## 📋 Resumen Cornell
 
 | 🔑 Claves / Preguntas | 📝 Respuestas clave |

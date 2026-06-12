@@ -40,6 +40,17 @@ tags:
 
 ---
 
+## 🏛 Anclas de memoria
+
+| Concepto | Lugar / Imagen | Escena vívida |
+|---|---|---|
+| HR = 4.53 para infarto/ACV/muerte | Semáforo de tu esquina | El semáforo de siempre tiene ahora **4.5 luces rojas encendidas a la vez** en vez de una sola — cada una late como un corazón a punto de explotar, y los peatones huyen mientras caen pedacitos de plástico del cielo. |
+| PE en 58.4% de placas carotídeas | Cuello de una camisa | Te pones una camisa y sientes un **bulto duro en el cuello**: al abrirla ves que el interior del cuello está lleno de **bolitas blancas de polietileno** como las de un relleno de empaque, apretadas contra la tela. |
+| Primera asociación clínica en humanos | Hospital | Entras a un hospital y el médico te muestra una **radiografía del cuello** donde se ven las arterias iluminadas en rosa neón — y dentro, como gusanos de plástico, se retuercen fragmentos de PE y PVC. "Es la primera vez que vemos esto matar", dice. |
+| 304 pacientes, 33 meses | Tu sala | En tu sala hay **304 sillas diminutas** ocupadas por figuritas de plástico. Cada una tiene un calendario al lado marcado con "33 meses" y una cruz roja. La mitad de las sillas se van vaciando una por una. |
+
+---
+
 ## 📋 Resumen Cornell
 
 | 🔑 Claves / Preguntas | 📝 Respuestas clave |
