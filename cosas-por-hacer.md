@@ -3,7 +3,6 @@
 ## 🔴 Prioridad alta (esta semana)
 - [ ] Comprar el KIT de pruebas de agua potable ~$170.000 en Mercado Libre
 - [ ] Medir la dureza del agua del grifo (necesario para saber si el método hervido+filtrado es viable)
-- [ ] Investigar precio y disponibilidad de sistemas de ósmosis inversa (RO) domésticos en Colombia
 - [ ] Averiguar la calidad del agua de grifo en mi ciudad (buscar informes del acueducto local)
 
 ## 🟡 Prioridad media (próximas 2 semanas)
@@ -27,7 +26,7 @@
 - [x] Configurar repositorio Git del proyecto
 - [x] Crear MOC del proyecto
 - [x] Adaptar investigaciones al formato Obsidian
-
+- [x] Investigar precio y disponibilidad de sistemas de ósmosis inversa (RO) domésticos en Colombia
 ---
 🔗 Relacionado
 - [[000-microplasticos-MOC|MOC del Proyecto Microplásticos]]
