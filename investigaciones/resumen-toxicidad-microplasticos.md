@@ -1,6 +1,14 @@
+---
+type: research
+fecha: 2026-06-08
+next-review: 2026-06-13
+nivel-retencion: pendiente
+tags: [research, tema/microplasticos, tema/salud, tema/toxicidad, review/pendiente]
+---
+
 # Resumen de Archivos sobre Toxicidad de Microplásticos
 
-> 📎 Este documento es una síntesis condensada. Para el análisis completo con referencias bibliográficas, datos cuantitativos, métodos de remoción y contexto regulatorio, véase [[Informe_Tecnico_Remocion_Microplasticos_Agua - 2 fuentes|Informe Técnico: Métodos Efectivos para la Remoción de Microplásticos en Agua de Consumo]].
+> 📎 Este documento es una síntesis condensada. Para el análisis completo con referencias bibliográficas, datos cuantitativos, métodos de remoción y contexto regulatorio, véase [[informe-tecnico-remocion-microplasticos-v2|Informe Técnico: Métodos Efectivos para la Remoción de Microplásticos en Agua de Consumo]].
 
 ---
 ## 1. Toxicidad de los Micro plásticos e Impacto en la Salud Humana.pdf
@@ -29,9 +37,33 @@
 
 ---
 
-## Documentos relacionados
+---
+## 📋 Resumen Cornell
 
-- [[Informe_Tecnico_Remocion_Microplasticos_Agua - 2 fuentes|Informe Técnico: Remoción de Microplásticos — Versión completa (2 fuentes)]] — ⭐ Análisis exhaustivo con 16 referencias, métodos de remoción, mecanismos de toxicidad y contexto regulatorio.
-- [[Informe_Tecnico_Remocion_Microplasticos_Agua|Informe Técnico de Remoción — Versión 1.0]] — Versión anterior basada en una sola fuente.
+| 🔑 Claves / Preguntas | 📝 Respuestas clave |
+|---|---|
+| ¿Cuáles son los principales mecanismos de toxicidad de los microplásticos? | Estrés oxidativo, disrupción endocrina (BPA, ftalatos), neurotoxicidad (los NPs cruzan la barrera hematoencefálica) y disbiosis intestinal. |
+| ¿Cuáles son las fuentes más importantes de exposición humana? | Textiles sintéticos (~35%), desgaste de neumáticos (~28%); vías: ingestión (agua/comida), inhalación y absorción dérmica. El agua embotellada aporta ~90.000 partículas/año vs 4.000 del grifo. |
+| ¿Cuál es la evidencia clínica más alarmante? | Marfella et al. (NEJM 2024): MPs en placas carotídeas se asocian con un riesgo **4.5× mayor** de infarto, ACV o muerte. |
+| ¿Cuánto plástico acumula el cerebro humano? | ~7 gramos en promedio para 2024 (equivalente a una cuchara desechable), con un aumento del 50% entre 2016-2024, y 7-30× más que hígado/riñones. |
+| ¿Cuál es la estrategia de mitigación más efectiva? | Ósmosis inversa (RO) como estándar de oro (>99% eliminación), seguida de ebullición+filtrado en aguas duras (80-90%). |
+
+📌 **Resumen:** Los microplásticos son omnipresentes en el cuerpo humano — se han hallado en sangre, pulmones, cerebro, placenta y leche materna — y causan daño mediante estrés oxidativo, disrupción hormonal y neuroinflamación. La primera asociación clínica directa (NEJM 2024) vincula su presencia en arterias con un riesgo cardiovascular 4.5× mayor. La ósmosis inversa es la defensa individual más eficaz.
+
+## 🧠 Feynman Check — Explicación simple
+
+Pedacitos de plástico invisibles se meten en tu cuerpo cuando comes, bebes o respiras, y se acumulan en órganos como el cerebro (donde puede haber tanto plástico como el que pesa una cucharita desechable). Una vez adentro, provocan inflamación, alteran tus hormonas y dañan tu sistema digestivo. La mejor defensa es filtrar tu agua con un sistema de ósmosis inversa y dejar de usar botellas de plástico.
+
+## 🏛 Anclas de memoria
+
+| Concepto | Lugar / Imagen | Escena vívida |
+|---|---|---|
+| 7 gramos de plástico en el cerebro | Tu cocina | Imagina abrir tu cráneo como una olla y encontrar adentro una **cuchara desechable** de plástico blanco clavada en el centro del cerebro, derritiéndose lentamente y goteando plástico entre las neuronas. |
+| Riesgo cardiovascular 4.5× | Un semáforo de carretera | Un corazón gigante atascado en un cruce: las arterias son tuberías atascadas con bolitas de plástico, y el semáforo marca "PELIGRO 4.5×" en rojo parpadeante mientras una ambulancia no puede pasar. |
+| Agua embotellada = 90.000 partículas/año | Supermercado | Ves una botella de agua en el estante que, al agitarla, brilla con 90.000 destellos microscópicos como una lámpara de purpurina — cada destello es una partícula de plástico que vas a tragar. |
+
+## 🔗 Relacionado
+- [[informe-tecnico-remocion-microplasticos-v2|Informe Técnico: Remoción de Microplásticos — Versión completa (2 fuentes)]] — ⭐ Análisis exhaustivo con 16 referencias, métodos de remoción, mecanismos de toxicidad y contexto regulatorio.
+- [[informe-tecnico-remocion-microplasticos-v1|Informe Técnico de Remoción — Versión 1.0]] — Versión anterior basada en una sola fuente.
 - [[analisis-composicion-material-botella-pet-cielo-620ml|Análisis de composición material de botella PET Cielo 620 mL]] — Caso de estudio: el envase PET como fuente de microplásticos.
 - [[analisis-material-botella-cielo-620ml|Análisis de material de botella Cielo 620 mL]] — Análisis complementario con estimación de masa y protocolo experimental.

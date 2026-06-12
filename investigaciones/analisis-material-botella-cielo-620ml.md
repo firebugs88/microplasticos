@@ -1,3 +1,11 @@
+---
+type: research
+fecha: 2026-06-08
+next-review: 2026-06-13
+nivel-retencion: pendiente
+tags: [research, tema/microplasticos, tema/polimeros, tema/PET, tema/envases, review/pendiente]
+---
+
 # Análisis técnico-científico de la composición material de una botella de agua Cielo de 620 ml comercializada en Colombia
 
 ## Resumen ejecutivo
@@ -105,8 +113,38 @@ Para un estudio académico, la conclusión más rigurosa es que la imagen permit
 
 ---
 
-## Documentos relacionados
+## 📋 Resumen Cornell
+
+| 🔑 Claves / Preguntas | 📝 Respuestas clave |
+|---|---|
+| ¿Cuál es la masa estimada de cada componente? | Cuerpo PET: 15–23 g (ref. 18 g, ~86,5 %); tapa/anillo PP o HDPE: 1,4–2,5 g (ref. 1,9 g, ~9,1 %); etiqueta BOPP: 0,4–1,2 g (ref. 0,8 g, ~3,8 %); tintas + adhesivo: 0,05–0,2 g (~0,5 %). Total seco de referencia: 20,8 g. |
+| ¿Cuáles son los materiales principales? | PET grado alimentario (cuerpo), PP o HDPE (tapa y banda inviolable), BOPP o film plástico equivalente (etiqueta), tintas flexográficas/rotograbado y adhesivo acrílico o hot-melt. |
+| ¿Cuál es el nivel de certeza de la identificación? | Alta-moderada para PET del cuerpo (material estándar inequívoco). Moderada para la tapa (PP vs HDPE no distinguibles visualmente). Moderada para la etiqueta (BOPP es estándar pero puede ser PET, PVC u OPS). Baja para tintas y adhesivo. |
+| ¿Qué se necesita para validar experimentalmente? | Pesaje con balanza de 0,01 g por componente, FTIR-ATR para identificación polimérica, DSC para temperaturas de fusión, XRF para antimonio y pigmentos inorgánicos, y documentación de trazabilidad para contenido reciclado. |
+| ¿Qué exige la regulación colombiana de contenido reciclado? | Al 2025: mínimo 50 % de materia prima reciclada posconsumo en botellas PET de agua. Al 2030: incremento al 90 % y recolección del 50 % de envases (Ley 2232/2022, Res. 0803/2024). |
+
+📌 **Resumen:** La botella Cielo 620 mL es un sistema multicomponente donde el PET del cuerpo domina con ~86 % de la masa seca (~18 g), seguido por la tapa de poliolefina (~9 %) y la etiqueta BOPP (~4 %). La identificación visual tiene certeza alta-moderada para las familias poliméricas, pero la confirmación definitiva requiere FTIR, DSC y gravimetría. El marco colombiano exige contenido reciclado creciente en estas botellas.
+
+---
+
+## 🧠 Feynman Check — Explicación simple
+
+Una botella de agua tiene varias partes hechas de plásticos diferentes. El cuerpo grande y transparente (que pesa unos 18 gramos) está hecho de PET, el mismo material de casi todas las botellas de agua del mundo. La tapita azul está hecha de un plástico diferente más ligero. Y la etiqueta con el nombre y los colores es una película muy delgada de otro plástico, con tintas impresas encima. Aunque parece una sola cosa simple, en realidad son al menos tres o cuatro materiales distintos que hay que separar para poder reciclarlos.
+
+---
+
+## 🏛 Anclas de memoria
+
+| Concepto | Lugar / Imagen | Escena vívida |
+|---|---|---|
+| Componentes como matrioskas | Una muñeca rusa gigante | Abres la muñeca rusa más grande (el cuerpo PET, enorme y transparente como cristal). Dentro hay una muñeca azul más pequeña (la tapa de PP/HDPE). Dentro de esa, una finísima como papel de seda (la etiqueta BOPP). Y dentro de la última, casi invisible, una gota de tinta y pegamento. Cada capa es un material diferente. |
+| PET domina el 86 % de la masa | Un elefante y sus amigos | Un elefante de cristal (PET, 18 g) camina junto a un ratón azul (tapa, 2 g) y una mariposa (etiqueta, 0,8 g). El elefante es tan grande que los otros casi no se ven, pero si no los separas, arruinan el reciclaje. |
+| Niveles de certeza | Un semáforo de laboratorio | Un científico mira la botella con un semáforo: luz verde brillante para "es PET" (alta certeza), amarillo para "la tapa es PP… ¿o HDPE?" (moderada), y rojo parpadeante para "¿qué tinta es esta?" (baja). Solo FTIR y DSC pueden cambiar todas las luces a verde. |
+
+---
+
+## 🔗 Relacionado
 
 - [[analisis-composicion-material-botella-pet-cielo-620ml|Análisis de composición material de botella PET Cielo 620 mL]] — Versión con mayor profundidad en ciencia de polímeros: estructura molecular del PET, aditivos, catalizador Sb₂O₃ y normativa colombiana de inocuidad.
-- [[Informe_Tecnico_Remocion_Microplasticos_Agua - 2 fuentes|Informe Técnico: Remoción de Microplásticos en Agua de Consumo]] — Datos epidemiológicos, mecanismos de toxicidad y métodos de remoción del agua.
-- [[resumen_toxicidad_microplasticos|Resumen de toxicidad de microplásticos]] — Síntesis condensada de hallazgos sobre toxicidad.
+- [[resumen-toxicidad-microplasticos|Resumen de toxicidad de microplásticos]] — Síntesis condensada de hallazgos sobre toxicidad.
+- [[informe-tecnico-remocion-microplasticos-v2|Informe Técnico: Remoción de Microplásticos en Agua de Consumo]] — Datos epidemiológicos, mecanismos de toxicidad y métodos de remoción del agua.

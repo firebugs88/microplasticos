@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CLAUDE.md",
+                "file": "cosas-por-hacer.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CLAUDE"
+              "title": "cosas-por-hacer"
             }
           }
         ],
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 415.5
+    "width": 280.5
   },
   "right": {
     "id": "861eb0d663c4daad",
@@ -200,24 +200,42 @@
   },
   "active": "2ad2efe6b77ba8a1",
   "lastOpenFiles": [
+    "CLAUDE.md.tmp.30984.7b80565f1f63",
+    "CLAUDE.md.tmp.30984.a44733916883",
+    "notas-clave/cronologia-hallazgos-2022-2026.md.tmp.30984.52e02ada9fad",
+    "notas-clave/metodos-remocion-ranking.md.tmp.30984.ae462d26bd5f",
+    "notas-clave/datos-clave-exposicion-humana.md.tmp.30984.ff16619a1b15",
+    "notas-clave/cronologia-hallazgos-2022-2026.md.tmp.30984.7ad24c5ccd46",
+    "notas-clave/datos-clave-exposicion-humana.md.tmp.30984.9f250dd7c948",
+    "notas-clave/metodos-remocion-ranking.md.tmp.30984.0f702be68426",
+    "investigaciones/informe-tecnico-remocion-microplasticos-v1.md.tmp.30984.e121a28a9a8b",
+    "investigaciones/informe-tecnico-remocion-microplasticos-v2.md.tmp.30984.460dcf0acd00",
+    "investigaciones/analisis-composicion-material-botella-pet-cielo-620ml.md.tmp.30984.db2e5084d1dc",
+    "notas-clave/regulacion-europea-microplasticos.md",
+    "notas-clave/riesgo-cardiovascular-microplasticos.md",
+    "notas-clave/impacto-neurologico-microplasticos.md",
+    "recursos/toxicidad-microplasticos-revision-2022-2026.md",
+    "investigaciones/resumen-toxicidad-microplasticos.md",
+    "investigaciones/informe-tecnico-remocion-microplasticos-v1.md",
+    "investigaciones/informe-tecnico-remocion-microplasticos-v2.md",
+    "templates/persona.md",
+    "templates/idea.md",
+    "templates/proyecto.md",
+    "templates/nota-clave.md",
+    "templates/daily-note.md",
+    "templates/research.md",
+    "notas-clave/metodos-remocion-ranking.md",
+    "notas-clave/datos-clave-exposicion-humana.md",
+    "notas-clave/cronologia-hallazgos-2022-2026.md",
+    "log/semana-2026-06-12.md",
+    "CLAUDE.md",
+    "000-microplasticos-MOC.md",
+    "VPS.md",
     "investigaciones/analisis-composicion-material-botella-pet-cielo-620ml.md",
-    "notas-clave",
     "investigaciones/analisis-material-botella-cielo-620ml.md",
     "investigaciones/Informe_Tecnico_Remocion_Microplasticos_Agua.md",
     "investigaciones/Informe_Tecnico_Remocion_Microplasticos_Agua - 2 fuentes.md",
     "investigaciones/resumen_toxicidad_microplasticos.md",
-    "cosas-por-hacer.md",
-    "CLAUDE.md",
-    "VPS.md",
-    "Informe_Tecnico_Remocion_Microplasticos_Agua.md.tmp.38380.b25f8a745913",
-    "imagenes/botella-agua-cielo.jpg",
-    "imagenes",
-    "recursos/Toxicidad de los microplásticos y su impacto en la salud humana - una revisión académica global (2022–2026) - claude.md",
-    "recursos/Toxicidad de los Microplásticos e Impacto en la Salud Humana.pdf",
-    "recursos/toxicidad microplasticos.pdf",
-    "recursos/Sin confirmar 485260.crdownload",
-    "Informe_Tecnico_Remocion_Microplasticos_Agua.md.tmp.38380.a55429a9204d",
-    "recursos",
-    "investigaciones"
+    "imagenes/botella-agua-cielo.jpg"
   ]
 }

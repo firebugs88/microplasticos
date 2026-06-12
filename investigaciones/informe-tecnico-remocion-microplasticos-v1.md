@@ -1,9 +1,17 @@
+---
+type: research
+fecha: 2026-06-08
+next-review: 2026-06-13
+nivel-retencion: pendiente
+tags: [research, tema/microplasticos, tema/agua, tema/filtracion, review/pendiente]
+---
+
 # Informe Técnico: Métodos Efectivos para la Remoción de Microplásticos en Agua de Consumo
 
 **Fecha:** 8 de junio de 2026
 **Basado en:** "Toxicidad de los Microplásticos e Impacto en la Salud Humana" (2024–2026) y literatura científica complementaria
 
-> ⚠️ **Nota:** Este documento es la versión 1.0 del informe, basado en una sola fuente. Existe una versión actualizada y más completa que integra dos fuentes primarias: [[Informe_Tecnico_Remocion_Microplasticos_Agua - 2 fuentes|Informe Técnico de Remoción de Microplásticos — Versión 2.0 (2 fuentes)]].
+> ⚠️ **Nota:** Este documento es la versión 1.0 del informe, basado en una sola fuente. Existe una versión actualizada y más completa que integra dos fuentes primarias: [[informe-tecnico-remocion-microplasticos-v2|Informe Técnico de Remoción de Microplásticos — Versión 2.0 (2 fuentes)]].
 
 ---
 
@@ -337,8 +345,32 @@ Las fuentes utilizadas para este informe provienen de la literatura científica 
 
 ---
 
-## Documentos relacionados
+---
+## 📋 Resumen Cornell
 
-- [[Informe_Tecnico_Remocion_Microplasticos_Agua - 2 fuentes|Informe Técnico de Remoción — Versión 2.0 (2 fuentes)]] — ⭐ Versión actualizada y más completa de este documento.
+| 🔑 Claves / Preguntas | 📝 Respuestas clave |
+|---|---|
+| ¿Cuál es el método más efectivo para remover microplásticos del agua? | La **ósmosis inversa (RO)** con >99% de efectividad; es el único método doméstico capaz de retener nanoplásticos. La ultrafiltración (~97%) es la segunda mejor opción. |
+| ¿Cuánta exposición genera el agua embotellada? | 110.000–370.000 partículas/L (90% nanoplásticos), aportando ~90.000 partículas adicionales/año frente a sólo ~4.000 del agua de grifo. |
+| ¿Por qué hervir el agua sola no es suficiente? | Sin filtrado posterior la efectividad cae a ~15%, porque los MPs encapsulados en cristales de calcio se liberan al enfriarse. Además, solo funciona en aguas duras (>120 mg/L CaCO₃). |
+| ¿Qué certificaciones buscar en un filtro? | NSF/ANSI 58 (ósmosis inversa), NSF/ANSI 401 (contaminantes emergentes), NSF/ANSI 53 (contaminantes con efectos en salud). |
+| ¿Cuál es el riesgo cardiovascular documentado? | Pacientes con MPs en placas carotídeas tienen un riesgo **4.5× mayor** de infarto, ACV o muerte (NEJM 2024). |
+
+📌 **Resumen:** El agua embotellada es paradójicamente la mayor fuente de microplásticos (90.000 partículas/año más que el grifo). La ósmosis inversa es el estándar de oro para filtración doméstica (>99%), seguida de ultrafiltración (~97%) y ebullición+filtrado en aguas duras (80-90%). La estrategia óptima combina filtración en capas con eliminación del agua embotellada en PET.
+
+## 🧠 Feynman Check — Explicación simple
+
+El agua que bebes — especialmente la embotellada — está llena de pedacitos de plástico tan pequeños que no puedes verlos. El mejor filtro casero es uno de ósmosis inversa, que empuja el agua a través de una membrana con agujeros tan diminutos que atrapa más del 99% de esas partículas. Hervir el agua también ayuda si tu agua es "dura" (con mucho calcio), porque el calcio atrapa el plástico, pero tienes que filtrarla después o no sirve de nada.
+
+## 🏛 Anclas de memoria
+
+| Concepto | Lugar / Imagen | Escena vívida |
+|---|---|---|
+| Ósmosis inversa = escudo superhéroe | La puerta de tu casa | Imagina una **membrana invisible de superhéroe** colocada en tu puerta: deja pasar el agua cristalina pero bloquea a un ejército de 100.000 enemigos microscópicos invisibles que intentan entrar — cada uno es una partícula de plástico rebotando contra el escudo y cayendo al suelo. |
+| Agua embotellada = 90.000 partículas/año | Estante de supermercado | Una botella de agua en el estante empieza a temblar y explota en una nube de **90.000 brillos de plástico** que flotan como confeti tóxico por todo el pasillo — los compradores huyen aterrados. |
+| Hervir sin filtrar = solo 15% | Tu cocina | Hierves agua y ves que el plástico se esconde dentro de cristales blancos de calcio, pero cuando se enfría, los cristales se rompen como huevos de dinosaurio y los pedacitos de plástico escapan de vuelta al agua — solo 15 de cada 100 quedaron atrapados. |
+
+## 🔗 Relacionado
+- [[informe-tecnico-remocion-microplasticos-v2|Informe Técnico de Remoción — Versión 2.0 (2 fuentes)]] — ⭐ **Versión actualizada y más completa de este documento (v2).** Se recomienda consultar esta versión para el análisis exhaustivo con 16 referencias.
 - [[analisis-composicion-material-botella-pet-cielo-620ml|Análisis de composición material de botella PET Cielo 620 mL]] — Caso de estudio del envase como fuente de microplásticos.
-- [[resumen_toxicidad_microplasticos|Resumen de toxicidad de microplásticos]] — Síntesis condensada de las fuentes primarias.
+- [[resumen-toxicidad-microplasticos|Resumen de toxicidad de microplásticos]] — Síntesis condensada de las fuentes primarias.

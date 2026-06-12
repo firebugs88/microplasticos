@@ -1,8 +1,16 @@
+---
+type: research
+fecha: 2026-06-08
+next-review: 2026-06-13
+nivel-retencion: pendiente
+tags: [research, tema/microplasticos, tema/agua, tema/filtracion, tema/salud, prioridad/alta, review/pendiente]
+---
+
 # Informe Técnico: Métodos Efectivos para la Remoción de Micro plásticos en Agua de Consumo
 
 **Fecha:** 8 de junio de 2026
 **Versión:** 2.0 — Revisión académica global (2022–2026)
-**Fuentes:** [[Toxicidad de los Microplásticos e Impacto en la Salud Humana.pdf|Toxicidad de los Microplásticos e Impacto en la Salud Humana]] (PDF) y [[Toxicidad de los microplásticos y su impacto en la salud humana - una revisión académica global (2022–2026) - claude|Toxicidad de los microplásticos y su impacto en la salud humana — una revisión académica global (2022–2026)]]
+**Fuentes:** [[Toxicidad de los Microplásticos e Impacto en la Salud Humana.pdf|Toxicidad de los Microplásticos e Impacto en la Salud Humana]] (PDF) y [[toxicidad-microplasticos-revision-2022-2026|Toxicidad de los microplásticos y su impacto en la salud humana — una revisión académica global (2022–2026)]]
 
 ---
 
@@ -529,9 +537,34 @@ Un estudio complementario de la Universidad de California, Riverside (2025) conf
 
 ---
 
-## Documentos relacionados
+---
+## 📋 Resumen Cornell
 
+| 🔑 Claves / Preguntas | 📝 Respuestas clave |
+|---|---|
+| ¿Cuáles son las cifras clave de exposición? | Agua embotellada: ~240.000 partículas/L (promedio), ~90.000 MPs adicionales/año vs grifo (~4.000/año). Dieta+inhalación total: 74.000–121.000 partículas/año. ~68.000 partículas/día inhaladas en interiores. |
+| ¿Cuál es el mejor método de remoción? | **Ósmosis inversa (RO)** con >99,9% de efectividad, único método doméstico capaz de retener NPs <100 nm. Certificaciones: NSF/ANSI 58 + 401. |
+| ¿Cuál es el estado regulatorio actual? | No existen límites obligatorios de MPs en agua potable a nivel global. La UE prohibió MPs añadidos intencionalmente (2023/2055). La EFSA emitirá dictamen formal en diciembre 2027. La OMS no considera riesgo grave con evidencia pre-2024. |
+| ¿Cuál es el hallazgo clínico más importante? | Marfella et al. (NEJM 2024): MPs en placas carotídeas asociados con HR=4,53 para infarto/ACV/muerte (p<0,001) — la **primera asociación clínica directa** en humanos. |
+| ¿Qué poblaciones son más vulnerables? | Fetos/recién nacidos (100% placentas positivas), lactantes, personas con demencia (6× más MPs cerebrales), pacientes cardiovasculares, hombres jóvenes (MPs en testículos: 329 µg/g). |
+
+📌 **Resumen:** El agua embotellada contiene ~240.000 partículas de plástico por litro (90% nanoplásticos), haciendo de la fuente "segura" la mayor vía de exposición hídrica. La ósmosis inversa (>99%) es la barrera individual más efectiva, mientras que no existen aún límites regulatorios globales. La primera evidencia clínica directa (NEJM 2024) vincula microplásticos en arterias con un riesgo cardiovascular 4,5 veces mayor, y los cerebros humanos acumulan cantidades crecientes año tras año.
+
+## 🧠 Feynman Check — Explicación simple
+
+Cada litro de agua embotellada contiene cientos de miles de pedacitos de plástico invisibles, la mayoría tan pequeños que pueden meterse en tu sangre y llegar hasta tu cerebro. La mejor manera de protegerte es filtrar el agua del grifo con un sistema de ósmosis inversa (que bloquea más del 99%) y dejar de comprar agua en botellas de plástico. Los gobiernos todavía no han puesto límites a cuánto plástico puede haber en el agua, así que por ahora la protección depende de cada persona.
+
+## 🏛 Anclas de memoria
+
+| Concepto | Lugar / Imagen | Escena vívida |
+|---|---|---|
+| 240.000 partículas/L en agua embotellada | Tu refrigerador | Abres una botella de agua y al servirla en un vaso transparente ves una **sopa invisible de 240.000 fragmentos brillantes** flotando como un cielo nocturno de estrellas tóxicas — cada estrella es un pedazo de plástico que vas a tragar sin saberlo. |
+| HR 4,53 — riesgo cardiovascular | Sala de emergencias | Un corazón humano gigante está en la camilla de emergencias, y al abrirlo el cirujano encuentra las arterias llenas de **bolitas de plástico brillante** como una piñata rota; la pantalla del monitor marca "RIESGO × 4,5" en números rojos enormes y la alarma suena sin parar. |
+| Cerebro con 50% más plástico en 8 años | Un museo de historia natural | En una vitrina del museo hay dos cerebros etiquetados "2016" y "2024": el segundo es **50% más grande** porque está inflado con plástico azul brillante que se desborda por las fisuras, mientras los visitantes miran horrorizados. |
+| Sin regulación global | Edificio del congreso | Un senador en un podio sostiene una botella de agua embotellada y brinda diciendo "¡salud!" mientras detrás de él un letrero gigante dice "LÍMITE DE PLÁSTICO EN AGUA: ???" con un signo de interrogación parpadeante — nadie ha escrito la cifra todavía. |
+
+## 🔗 Relacionado
 - [[analisis-composicion-material-botella-pet-cielo-620ml|Análisis de composición material de botella PET Cielo 620 mL]] — Caso de estudio: ciencia de polímeros del envase, aditivos (Sb₂O₃, captadores de acetaldehído), proceso ISBM y marco normativo colombiano.
 - [[analisis-material-botella-cielo-620ml|Análisis de material de botella Cielo 620 mL]] — Versión complementaria con estimación de masa por componente, benchmarking internacional y protocolo de validación experimental.
-- [[resumen_toxicidad_microplasticos|Resumen de toxicidad de microplásticos]] — Síntesis condensada de los hallazgos principales de las fuentes primarias.
-- [[Informe_Tecnico_Remocion_Microplasticos_Agua|Informe Técnico de Remoción (versión 1.0)]] — Versión anterior de este informe, basada en una sola fuente.
+- [[resumen-toxicidad-microplasticos|Resumen de toxicidad de microplásticos]] — Síntesis condensada de los hallazgos principales de las fuentes primarias.
+- [[informe-tecnico-remocion-microplasticos-v1|Informe Técnico de Remoción (versión 1.0)]] — Versión anterior de este informe, basada en una sola fuente.

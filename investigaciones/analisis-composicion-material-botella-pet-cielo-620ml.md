@@ -1,3 +1,11 @@
+---
+type: research
+fecha: 2026-06-08
+next-review: 2026-06-13
+nivel-retencion: pendiente
+tags: [research, tema/microplasticos, tema/polimeros, tema/PET, tema/envases, prioridad/alta, review/pendiente]
+---
+
 # Análisis técnico-científico de la composición material de una botella de agua embotellada de 620 mL
 
 ### Caso de estudio: *Cielo — Agua sin gas* (AJE Colombia S.A.), envase PET no retornable
@@ -240,7 +248,7 @@ Tres puntos merecen detalle por su pertinencia para el PET de agua:
 
 **Ausencia de bisfenol A (BPA).** Es una aclaración frecuente y pertinente: el PET es un poliéster que **no contiene BPA** en su química (el BPA se asocia a policarbonatos y a ciertas resinas epóxicas, no al #1).
 
-**Micro y nanoplásticos.** Investigaciones recientes han documentado la presencia de partículas micro- y nanoplásticas en agua embotellada, en concentraciones que pueden alcanzar el orden de cientos de miles de partículas por litro según la técnica analítica empleada. Las fuentes plausibles incluyen el desprendimiento desde la pared de PET y desde el cierre (poliolefina) por estrés mecánico —la fricción de la rosca al abrir y cerrar, la deformación del envase— y térmico. Este es un campo de investigación activo, con metodologías aún en estandarización y una evaluación toxicológica en curso; se menciona aquí por su relación directa con la composición material del envase, sin que ello implique un juicio sobre el riesgo de un producto concreto. Para una revisión detallada de la cuantificación de partículas en agua embotellada, los mecanismos de toxicidad asociados y los métodos de remoción, véase [[Informe_Tecnico_Remocion_Microplasticos_Agua - 2 fuentes|Informe Técnico: Métodos Efectivos para la Remoción de Microplásticos en Agua de Consumo]].
+**Micro y nanoplásticos.** Investigaciones recientes han documentado la presencia de partículas micro- y nanoplásticas en agua embotellada, en concentraciones que pueden alcanzar el orden de cientos de miles de partículas por litro según la técnica analítica empleada. Las fuentes plausibles incluyen el desprendimiento desde la pared de PET y desde el cierre (poliolefina) por estrés mecánico —la fricción de la rosca al abrir y cerrar, la deformación del envase— y térmico. Este es un campo de investigación activo, con metodologías aún en estandarización y una evaluación toxicológica en curso; se menciona aquí por su relación directa con la composición material del envase, sin que ello implique un juicio sobre el riesgo de un producto concreto. Para una revisión detallada de la cuantificación de partículas en agua embotellada, los mecanismos de toxicidad asociados y los métodos de remoción, véase [[informe-tecnico-remocion-microplasticos-v2|Informe Técnico: Métodos Efectivos para la Remoción de Microplásticos en Agua de Consumo]].
 
 ---
 
@@ -276,8 +284,39 @@ Cada elección material responde a una lógica funcional y económica identifica
 
 ---
 
-## Documentos relacionados
+## 📋 Resumen Cornell
 
-- [[Informe_Tecnico_Remocion_Microplasticos_Agua - 2 fuentes|Informe Técnico: Remoción de Microplásticos en Agua de Consumo]] — Cuantificación de la exposición humana, mecanismos de toxicidad (cardiovascular, neurológica, reproductiva) y métodos de remoción jerarquizados.
+| 🔑 Claves / Preguntas | 📝 Respuestas clave |
+|---|---|
+| ¿De qué está hecho el PET? | Es un poliéster aromático lineal semicristalino, sintetizado por policondensación de ácido tereftálico (PTA) o DMT con monoetilenglicol (MEG). Fórmula de unidad repetitiva: $(\mathrm{C_{10}H_8O_4})_n$. |
+| ¿Qué aditivos permanecen en el PET de botella? | Residuos del catalizador de antimonio ($\mathrm{Sb_2O_3}$), captadores de acetaldehído (antranilamida), aditivos de recalentamiento IR, agentes de azulado (compuestos de cobalto) y estabilizantes térmicos/UV. |
+| ¿Qué es el acetaldehído y por qué importa? | Es un subproducto de la degradación térmica del PET durante el procesado; a ~20 ppm en la pared puede dar al agua un sabor afrutado/dulzón indeseable. Se controla con resina de bajo AA (vía SSP) y captadores químicos. |
+| ¿Cómo se fabrica la botella? | En dos etapas: (1) inyección de una preforma (tubo de ensayo con rosca definitiva), y (2) estirado-soplado biaxial (ISBM) que orienta las cadenas, induce cristalización por deformación y produce una pared delgada, transparente y resistente. |
+| ¿Qué diferencia la tapa del cuerpo? | La tapa es una poliolefina (HDPE o PP, densidad <1 g/cm³, flota) mientras el cuerpo es PET (densidad ~1,4 g/cm³, se hunde). Esta diferencia de densidad permite separarlos por flotación en el reciclaje. |
+
+📌 **Resumen:** La botella Cielo 620 mL es un sistema esencialmente bipolimérico: cuerpo de PET grado agua (IV ≈0,72–0,78 dL/g) conformado por inyección de preforma y estirado-soplado biaxial, con cierre de poliolefina (HDPE/PP) y decoración por impresión directa. Los aditivos clave incluyen residuos catalíticos de antimonio y captadores de acetaldehído. Todo el sistema se inscribe en el marco normativo colombiano de inocuidad (Res. 4143/2012) y de responsabilidad extendida del productor (Res. 1407/2018).
+
+---
+
+## 🧠 Feynman Check — Explicación simple
+
+Una botella de agua de plástico está hecha principalmente de un material llamado PET, que se fabrica combinando dos sustancias químicas simples derivadas del petróleo. Primero se hace un "tubito de ensayo" grueso (la preforma) y luego se calienta y se infla como un globo dentro de un molde, lo que estira las moléculas y hace que la pared quede delgada, fuerte y transparente a la vez. La tapa es de un plástico diferente y más ligero que flota en el agua, lo cual es muy útil porque cuando se recicla, la tapa flota y el cuerpo se hunde, y así se pueden separar fácilmente.
+
+---
+
+## 🏛 Anclas de memoria
+
+| Concepto | Lugar / Imagen | Escena vívida |
+|---|---|---|
+| Preforma → ISBM → Botella | Un palacio de cristal | Un diminuto tubo de ensayo (la preforma) se calienta hasta ponerse gomoso, un gigante lo estira hacia arriba y luego sopla con toda su fuerza: el tubito explota en un palacio de cristal transparente con paredes finísimas pero irrompibles. |
+| Antimonio residual del catalizador | Una cocina con huellas del chef | El chef (Sb₂O₃) cocinó el PET y se fue, pero dejó sus huellas dactilares microscópicas por toda la cocina. Si calientas la cocina (sol, carro caliente), las huellas empiezan a "sudar" hacia la comida. |
+| Acetaldehído = sabor dulzón | Una manzana fantasma dentro de la botella | Dentro de cada botella vive una manzana fantasma invisible: si la fábrica no la atrapa con su red mágica (captador de AA), el agua empieza a saber a fruta aunque nunca tocó una fruta. |
+| Densidad PET vs poliolefina → reciclaje | Una piscina de separación | En una piscina gigante, las botellas trituradas de PET se hunden como piedras hasta el fondo, mientras las tapitas de colores flotan alegremente en la superficie. Un brazo robótico recoge cada grupo por separado. |
+
+---
+
+## 🔗 Relacionado
+
 - [[analisis-material-botella-cielo-620ml|Análisis de material de botella Cielo 620 mL]] — Análisis complementario con estimación de masa por componente, benchmarking NEA Singapur y protocolo de validación experimental (FTIR-ATR, DSC, XRF).
-- [[resumen_toxicidad_microplasticos|Resumen de toxicidad de microplásticos]] — Síntesis condensada de las fuentes primarias sobre toxicidad.
+- [[resumen-toxicidad-microplasticos|Resumen de toxicidad de microplásticos]] — Síntesis condensada de las fuentes primarias sobre toxicidad.
+- [[informe-tecnico-remocion-microplasticos-v2|Informe Técnico: Remoción de Microplásticos en Agua de Consumo]] — Cuantificación de la exposición humana, mecanismos de toxicidad (cardiovascular, neurológica, reproductiva) y métodos de remoción jerarquizados.

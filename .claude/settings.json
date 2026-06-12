@@ -1,12 +1,11 @@
 {
     "env": {
-        "ANTHROPIC_BASE_URL": "https://api.deepseek.com/anthropic",
-        "ANTHROPIC_AUTH_TOKEN": "sk-2485241ffff241e29fb48a3d8275ecf5",
-        "ANTHROPIC_MODEL": "deepseek-v4-pro[1m]",
-        "ANTHROPIC_DEFAULT_OPUS_MODEL": "deepseek-v4-pro[1m]",
-        "ANTHROPIC_DEFAULT_SONNET_MODEL": "deepseek-v4-pro[1m]",
-        "ANTHROPIC_DEFAULT_HAIKU_MODEL": "deepseek-v4-flash[1m]",
-        "CLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC": "1",
-        "CLAUDE_CODE_EFFORT_LEVEL": "max"
+        "ANTHROPIC_AUTH_TOKEN": "sk-ws-H.IRHRLH.PTWb.MEUCIQDGXXZIVgaDrUklzF6jbVgHl39KM6gTXsPC46UDfyG9jAIgUFeFlTmE-ZqZWkczz2Jmu2tFFImfe9DcQ2GJHpIiFa0",
+        "ANTHROPIC_BASE_URL": "https://dashscope-intl.aliyuncs.com/apps/anthropic",
+        "ANTHROPIC_MODEL": "qwen3.7-max",
+        "ANTHROPIC_DEFAULT_HAIKU_MODEL": "qwen3.6-flash",
+        "ANTHROPIC_DEFAULT_SONNET_MODEL": "qwen3.7-max",
+        "ANTHROPIC_DEFAULT_OPUS_MODEL": "qwen3.7-max",
+        "CLAUDE_CODE_SUBAGENT_MODEL": "qwen3.7-max"
     }
 }

@@ -30,11 +30,13 @@ Todo lo que hagas debe pasar por este filtro: **¿esto me ayuda a aprender de ve
 | `daily-notes/` | Una nota por día (`YYYY-MM-DD.md`) | Diaria |
 | `proyectos/` | Un `.md` por proyecto activo | Según necesidad |
 | `investigaciones/` | Investigaciones, lecturas, herramientas | Según necesidad |
+| `notas-clave/` | Notas de síntesis con datos clave y rankings | Según necesidad |
 | `personas/` | Fichas de contactos relevantes | Según necesidad |
 | `ideas/` | Ideas sin proyecto asignado | Según necesidad |
 | `inbox/` | Material pendiente de procesar | Punto de entrada |
 | `templates/` | Plantillas base (no editar directamente) | Referencia |
 | `recursos/` | Material de consulta, cheatsheets, referencia estática | Referencia |
+| `log/` | Registros semanales de progreso del proyecto | Semanal |
 | `Tecnicas de Lectura/` | Técnicas de lectura eficiente (chunking, lectura rápida) | Referencia |
 | `Tecnicas de Memorizacion/` | Métodos de memorización y toma de apuntes (Cornell, Loci…) | Referencia |
 | `Registro de Lectura/` | Registro semanal de progreso de lectura | Semanal |
@@ -44,6 +46,7 @@ Todo lo que hagas debe pasar por este filtro: **¿esto me ayuda a aprender de ve
 | Archivo | Propósito |
 |---------|-----------|
 | `000 Home MOC.md` | Punto de entrada principal y navegación global |
+| `000-microplasticos-MOC.md` | Mapa de contenido del proyecto microplásticos |
 | `010 Redes y Telecomunicaciones MOC.md` | Mapa de contenido de redes |
 | `020 Física y Electromagnetismo MOC.md` | Mapa de contenido de física |
 | `030 Neurociencia y Productividad MOC.md` | Mapa de contenido de neurociencia |
@@ -60,6 +63,7 @@ Todo lo que hagas debe pasar por este filtro: **¿esto me ayuda a aprender de ve
 - `#daily` → notas diarias
 - `#proyecto` → proyectos
 - `#research` → investigaciones
+- `#nota-clave` → notas de síntesis con datos clave
 - `#persona` → contactos
 - `#idea` → ideas sueltas
 - `#inbox` → pendiente de clasificar
@@ -80,6 +84,12 @@ Todo lo que hagas debe pasar por este filtro: **¿esto me ayuda a aprender de ve
 - `#tema/[categoría]` → clasificación temática abierta
 
 **Tags temáticos en uso:**
+- `#tema/microplasticos` → contaminación por microplásticos, toxicidad, remoción
+- `#tema/salud` → impacto en salud humana, bioacumulación
+- `#tema/toxicidad` → mecanismos de daño, estudios toxicológicos
+- `#tema/agua` → calidad del agua, métodos de filtración
+- `#tema/filtracion` → ósmosis inversa, ultrafiltración, carbón activado
+- `#tema/polimeros` → PET, polímeros, ciencia de materiales
 - `#tema/redes` → Ethernet, TCP/IP, Internet, codificación
 - `#tema/física` → electromagnetismo, corriente eléctrica, ondas EM
 - `#tema/historia` → historia de redes e Internet
@@ -220,77 +230,63 @@ Cada semana dedica 20-30 minutos a:
 
 ---
 
-## Inventario de notas (actualizado 2026-06-03)
+## Inventario de notas (actualizado 2026-06-12)
 
-### `investigaciones/` — 20 notas
+### `investigaciones/` — 5 notas
 
 | Nota | Dominio | Estado |
 |------|---------|--------|
-| `corriente-electrica` | Física / electromagnetismo | ✅ Completa |
-| `onda-electromagnetica` | Física / electromagnetismo | ✅ Completa |
-| `fotones-virtuales` | Física cuántica / QED | ✅ Completa |
-| `la-corriente-electrica-en-el-hogar` | Física aplicada | ✅ Completa |
-| `la-composicion-de-la-materia-atomos` | Física fundamental | ✅ Completa |
-| `señalizacion-diferencial` | Redes / capa física | ✅ Completa |
-| `historia-y-origen-de-ethernet-1973` | Redes / historia | ✅ Completa |
-| `el-estandar-dix` | Redes / historia | ✅ Completa |
-| `fast-ethernet-ieee-802-3u` | Redes / IEEE | ✅ Completa |
-| `codificacion-4b-5b-y-mlt-3` | Redes / codificación | ✅ Completa |
-| `internet` | Redes / historia | ✅ Completa |
-| `nsfnet` | Redes / historia | ✅ Completa |
-| `rfc` | Redes / estándares | ✅ Completa |
-| `modelo-tcp-ip` | Redes / protocolos | ✅ Completa |
-| `preguntas-clave-onda-electromagnetica` | Física / repaso | ✅ Completa |
-| `dopamina` | Neurociencia / aprendizaje | ⚠️ En progreso |
-| `guia-vegana-de-l-tirosina-y-nutricion-dopaminergica` | Neurociencia / nutrición | ✅ Completa |
-| `nutricion-cerebro` | Neurociencia / nutrición | ✅ Completa |
-| `resistencia` | Física / estado sólido | ✅ Completa |
-| `voltaje` | Física / electromagnetismo | ✅ Completa |
+| `informe-tecnico-remocion-microplasticos-v2` | Microplásticos / remoción de agua | ✅ Completa (V2, 2 fuentes, 16+ refs) |
+| `informe-tecnico-remocion-microplasticos-v1` | Microplásticos / remoción de agua | ✅ Completa (V1, referencia histórica) |
+| `resumen-toxicidad-microplasticos` | Microplásticos / toxicidad | ✅ Completa |
+| `analisis-composicion-material-botella-pet-cielo-620ml` | Microplásticos / polímeros PET | ✅ Completa |
+| `analisis-material-botella-cielo-620ml` | Microplásticos / polímeros PET | ✅ Completa |
 
-### `recursos/` — 13 notas
+### `notas-clave/` — 6 notas
 
 | Nota | Contenido |
 |------|-----------|
-| `cheatsheet-metodos-de-aprendizaje` | Referencia rápida de técnicas de aprendizaje |
-| `historia-y-evolucion-del-internet-arpanet` | Video YouTube sobre historia de Internet |
-| `Dietas mas saludables para el Cerebro` | Nutrición y alimentación para la función cognitiva |
-| `Dopamina y Estudio — Guía Completa…` | Guía sobre dopamina, motivación y concentración |
-| `Ondas electromagnéticas - naturaleza, historia y frontera tecnológica` | Investigación IA nivel universitario sobre ondas EM |
-| `ondas-electromagneticas-ppxty` | Investigación Perplexity AI — física / electromagnetismo |
-| `Investigación Onda Electromagnética Universitaria - gemini` | Investigación Gemini — física / electromagnetismo |
-| `Qué cambios en mi entorno o hábitos pueden ayudarme a vencer la procrastinación` | Productividad / hábitos |
-| `rutina-diaria-dopamina` | Protocolo práctico de dopamina |
-| `Codificación 4B_5B + MLT-3... (PDF)` | Análisis técnico 100BASE-TX |
-| `El Campo Electromagnético... (PDF)` | Fundamentos y procesos EM |
-| `Evolución histórica de TCP_IP... (PDF)` | Historia de protocolos |
-| `Modelo TCP_IP_ Proceso Solicitud... (PDF)` | Diagramas de proceso web |
+| `datos-clave-exposicion-humana` | Datos duros sobre vías de exposición, dosis y bioacumulación |
+| `metodos-remocion-ranking` | Ranking comparativo de métodos por efectividad y accesibilidad |
+| `cronologia-hallazgos-2022-2026` | Línea temporal de descubrimientos científicos recientes |
+| `impacto-neurologico-microplasticos` | Bioacumulación cerebral, neuroinflamación y relación con demencia |
+| `riesgo-cardiovascular-microplasticos` | Estudio Marfella et al. (NEJM 2024): HR 4.53 para eventos CV |
+| `regulacion-europea-microplasticos` | Marco regulatorio UE, posición EFSA y estado en Colombia |
 
-### `Tecnicas de Lectura/` — 3 notas
+### `recursos/` — 2 archivos
 
-| Nota | Contenido |
-|------|-----------|
-| `Lectura por bloques - (Chunking)` | Técnica de agrupación de palabras, plan 8 semanas |
-| `Lectura rápida` | Skimming, scanning, meta-guiding |
-| `Guía Práctica - Método Chunking` | Guía de ejercicios y aplicación práctica del chunking |
+| Archivo | Contenido |
+|---------|-----------|
+| `Toxicidad de los Microplásticos e Impacto en la Salud Humana.pdf` | Reporte ejecutivo/divulgativo en PDF |
+| `toxicidad-microplasticos-revision-2022-2026` | Revisión académica global 2022–2026 con citas bibliográficas |
 
-### `Tecnicas de Memorizacion/` — 2 notas
+### `templates/` — 6 plantillas
 
-| Nota | Contenido |
-|------|-----------|
-| `Técnicas de Memorización` | Pareto, Palacio de Memoria, Repetición Espaciada |
-| `Método Cornell de Toma de Apuntes…` | Fundamentos, 5 R's, caso práctico Ethernet |
+| Plantilla | Uso |
+|-----------|-----|
+| `research` | Notas de investigación con Cornell, Feynman, Loci, repaso espaciado |
+| `daily-note` | Nota diaria con objetivos Pareto, captura y reflexión |
+| `nota-clave` | Notas de síntesis con datos clave y rankings |
+| `proyecto` | Proyecto activo con objetivos y revisión semanal |
+| `idea` | Idea semilla con evaluación Pareto |
+| `persona` | Ficha de contacto con ancla de memoria |
 
-### `ideas/` — 3 notas
-
-| Nota | Estado |
-|------|--------|
-| `antena-wifi-tarro-papas` | semilla — construir antena direccional con tarro de papas |
-| `frecuencia-mlt3-longitud-onda-cobre` | semilla — calcular λ de MLT-3 en cobre (≈6.4 m) |
-| `palabras-clave-como-repaso-activo` | semilla — integrar en plantilla research y Tecnicas de Memorizacion |
-
-### `Registro de Lectura/` — 2 notas
+### `log/` — 1 nota
 
 | Nota | Contenido |
 |------|-----------|
-| `semana-2026-04-13` | Semana 1 del programa de chunking |
-| `semana-2026-04-20` | Semana 2 del programa de chunking |
+| `semana-2026-06-12` | Registro semanal del proyecto microplásticos |
+
+### `imagenes/` — 1 archivo
+
+| Archivo | Descripción |
+|---------|-------------|
+| `botella-agua-cielo.jpg` | Foto de referencia del caso de estudio PET |
+
+### Archivos en raíz
+
+| Archivo | Propósito |
+|---------|-----------|
+| `000-microplasticos-MOC` | MOC del proyecto microplásticos |
+| `CLAUDE.md` | Convenciones del segundo cerebro |
+| `cosas-por-hacer` | Tareas pendientes organizadas por prioridad |
